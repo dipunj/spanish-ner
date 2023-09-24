@@ -1,4 +1,4 @@
-# Assignment 2
+# Spanish NER
 
 ## Introduction
 
